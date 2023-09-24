@@ -4,32 +4,159 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84736666-1497-4bd9-acd9-97c60982cb51" name="Changes" comment="" />
+    <list default="true" id="84736666-1497-4bd9-acd9-97c60982cb51" name="Changes" comment="my new features">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Homepage/HeaderMenuNavigation/HeaderMenuNavigation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Homepage/HeaderMenuNavigation/HeaderMenuNavigationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homepage/ApprovedByOfficialsSection/ApprovedByOfficialsSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homepage/ApprovedByOfficialsSection/ApprovedByOfficialsSection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homepage/ApprovedByOfficialsSection/ApprovedByOfficialsSectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homepage/ApprovedByOfficialsSection/ApprovedByOfficialsSectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homepage/BeneficiaryDataSection/BeneficiaryDataSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homepage/BeneficiaryDataSection/BeneficiaryDataSection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homepage/BeneficiaryDataSection/BeneficiaryDataSectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homepage/BeneficiaryDataSection/BeneficiaryDataSectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homepage/BookSessionSection/BookSessionSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homepage/BookSessionSection/BookSessionSection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homepage/BookSessionSection/BookSessionSectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homepage/BookSessionSection/BookSessionSectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homepage/DownSection/DownSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homepage/DownSection/DownSection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homepage/DownSection/DownSectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homepage/DownSection/DownSectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homepage/EliteSpecialistsSection/EliteSpecialistsSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homepage/EliteSpecialistsSection/EliteSpecialistsSection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homepage/EliteSpecialistsSection/EliteSpecialistsSectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homepage/EliteSpecialistsSection/EliteSpecialistsSectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homepage/FromProblemToSolution/FromProblemToSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homepage/FromProblemToSolution/FromProblemToSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homepage/FromProblemToSolution/FromProblemToSolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homepage/FromProblemToSolution/FromProblemToSolutionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homepage/FromTheBlogSection/FromTheBlogSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homepage/FromTheBlogSection/FromTheBlogSection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homepage/FromTheBlogSection/FromTheBlogSectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homepage/FromTheBlogSection/FromTheBlogSectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homepage/Functions/UtilizesFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homepage/Functions/UtilizesFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homepage/JoinACommunity/JoinACommunity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homepage/JoinACommunity/JoinACommunity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homepage/JoinACommunity/JoinACommunityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homepage/JoinACommunity/JoinACommunityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homepage/Setup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homepage/Setup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2VM6HPTVCtylmPeDNGFsCxRC6hK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "onboarding.tips.debug.path": "D:/AB-Codin/Selenium/test/SeleniumWithFamcare/src/main/java/org/example/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/AB-Codin/Selenium/GSG/project-two/gsg-kh-selenium&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/AB-Codin/Selenium/test/SeleniumWithFamcare/src/main/java/org/example/Main.java&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="WebDriver driver;     WebElement contactButton;     WebElement clientsButton;     JavascriptExecutor jse;" />
+      <command value="imageData = " />
+      <command value="SpecialistPerson1T" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/AB-Codin/Selenium/test/SeleniumWithFamcare/testng.xml">
+    <configuration name="BookSession" type="TestNG">
+      <module name="SeleniumWithFamcare" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="Homepage.BookSessionSection" />
+      <option name="MAIN_CLASS_NAME" value="Homepage.BookSessionSection.BookSessionSection" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookSessionSectionTest" type="TestNG">
+      <module name="SeleniumWithFamcare" />
+      <shortenClasspath name="NONE" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="Homepage.BookSessionSection" />
+      <option name="MAIN_CLASS_NAME" value="Homepage.BookSessionSection.BookSessionSectionTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookSessionSectionTest.verifyMainTitleExist" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWithFamcare" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homepage.BookSessionSection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Homepage.BookSessionSection" />
+      <option name="MAIN_CLASS_NAME" value="Homepage.BookSessionSection.BookSessionSectionTest" />
+      <option name="METHOD_NAME" value="verifyMainTitleExist" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/AB-Codin/Selenium/test/SeleniumWithFamcare/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWithFamcare" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.BookSession" />
+      <item itemvalue="TestNG.BookSessionSectionTest" />
+      <item itemvalue="TestNG.D:/AB-Codin/Selenium/test/SeleniumWithFamcare/testng.xml" />
+      <item itemvalue="TestNG.BookSessionSectionTest.verifyMainTitleExist" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/AB-Codin/Selenium/test/SeleniumWithFamcare/testng.xml" />
+        <item itemvalue="TestNG.BookSessionSectionTest.verifyMainTitleExist" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,15 +168,8 @@
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="my new features" />
+    <option name="LAST_COMMIT_MESSAGE" value="my new features" />
   </component>
 </project>

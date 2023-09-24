@@ -13,5 +13,71 @@
         <maven.compiler.target>20</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-    
+
+    <dependencies>
+
+        <dependency>
+            <groupId>org.jadira.maven</groupId>
+            <artifactId>maven.plugins</artifactId>
+            <version>7.0.0.CR1</version>
+            <type>pom</type>
+        </dependency>
+
+
+<!--
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>4.10.0</version>
+
+
+        </dependency>
+-->
+
+        <!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
+       <!-- <dependency>
+            <groupId>io.github.bonigarcia</groupId>
+            <artifactId>webdrivermanager</artifactId>
+            <version>5.5.0</version>
+        </dependency>
+-->
+
+
+        <!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
+        <dependency>
+            <groupId>io.github.bonigarcia</groupId>
+            <artifactId>webdrivermanager</artifactId>
+            <version>5.5.0</version>
+        </dependency>
+
+
+        <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-chrome-driver -->
+     <!--   <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-chrome-driver</artifactId>
+            <version>4.10.0</version>
+        </dependency>
+-->
+
+        <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>4.10.0</version>
+        </dependency>
+
+
+        <!-- https://mvnrepository.com/artifact/org.testng/testng -->
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>7.7.0</version>
+            <scope>test</scope>
+        </dependency>
+
+
+
+
+    </dependencies>
+
 </project>
